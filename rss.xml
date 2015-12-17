@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hydroseal]]></title>
         <description><![CDATA[Hydroseal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hydroseal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 01:45:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 01:45:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hydroseal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>this is where i think i am.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d650d55-6618-4404-aa8a-e977a0b6a1f7.gif"></article>]]></description>
+            <link>http://www.yogacafe.net/#you</link>
+            <guid isPermaLink="false">c4657ef5-1be2-4c99-8c74-bfff89373d61</guid>
+            <pubDate>Thu, 17 Dec 2015 01:45:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6e1f6d4-bf4a-4fba-a9cb-a97cfe322f88.JPG">]]></description>
-            <link>undefined37a0e52c-75aa-4b8a-8f61-2f69ff160130/index.html</link>
+            <link>https://thegrid.ai/hydroseal/37a0e52c-75aa-4b8a-8f61-2f69ff160130/index.html</link>
             <guid isPermaLink="false">37a0e52c-75aa-4b8a-8f61-2f69ff160130</guid>
             <pubDate>Thu, 17 Dec 2015 01:45:23 GMT</pubDate>
         </item>
